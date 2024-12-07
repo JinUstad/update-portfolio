@@ -1,7 +1,7 @@
 export const educations = [
   {
     id: 1,
-    title: "Degree (MCA)",
+    title: "Master Degree (MCA)",
     duration: "2018 - 2021",
     institution: "Hi-Tech Institute of Engineering & Technology",
   },
