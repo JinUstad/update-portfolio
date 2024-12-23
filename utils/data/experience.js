@@ -3,7 +3,7 @@ export const experiences = [
     id: 1,
     title: 'Software Engineer (UI/UX Designer)',
     company: "Chetu Inc.",
-    duration: "(July 2023 - Present)"
+    duration: "(July 2023 - Dec 2024)"
   },
   {
     id: 2,
