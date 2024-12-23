@@ -2,7 +2,7 @@ export const educations = [
   {
     id: 1,
     title: "Master Degree (MCA)",
-    duration: "2018 - 2021",
+    duration: "2021 - 2023",
     institution: "Hi-Tech Institute of Engineering & Technology",
   },
   {
