@@ -8,7 +8,7 @@ export const personalData = {
   address: 'Rafikabad Colony Dasna, Ghaziabad, India',
   github: 'https://github.com/jinustad',
   facebook: 'https://www.facebook.com/gul.mohd.1426',
-  linkedIn: 'https://shorturl.at/dwYWr',
+  linkedIn: 'https://www.linkedin.com/in/gul-mohammad-b58086164/',
   twitter: '',
   stackOverflow: '',
   leetcode: "",
