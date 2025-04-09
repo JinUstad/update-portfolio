@@ -9,7 +9,8 @@ export const skillsData = [
   'Figma',
   'Firebase',
   'Adobe',
-  'Animaton'
+  'Animaton',
+  'Strapi',
 ]
 
 // Choose your skills from below. Make sure it's in the same format and spelled correctly.
